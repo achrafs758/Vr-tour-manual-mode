@@ -1,0 +1,11 @@
+@import '../node_modules/@photo-sphere-viewer/core/index.css';
+@import '../node_modules/@photo-sphere-viewer/virtual-tour-plugin/index.css';
+@import '../node_modules/@photo-sphere-viewer/gallery-plugin/index.css';
+@import '../node_modules/@photo-sphere-viewer/markers-plugin/index.css';
+
+html, body, #viewer {
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: sans-serif;
+}
